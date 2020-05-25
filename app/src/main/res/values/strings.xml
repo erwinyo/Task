@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="add_task">+ Add New Task</string>
+    <string name="type_something">What will you do…</string>
+    <string name="nicely_done">Nicely done!</string>
+    <string name="youve_finished">You\'ve finished all your tasks. Take a second to recharge.</string>
+    <string name="for_you">for you from</string>
+    <string name="tugaskita">TugasKita</string>
+</resources>
